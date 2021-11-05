@@ -1,46 +1,44 @@
 # 发布作品
 
-
-
 使用SparkLink进行作品创作和发布非常简单！
 
 本指南将介绍如何使用SparkLink平台功能进行NFT作品的创作和发布。
 
 **开始创作和发布** 在SparkLink首页找到 **去发布** 按钮，点击后进入发布选择界面，你可以选择**加密发布**你的作品，也可以选择**开源发布**你的作品
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 &#x20;你可以选择将你的作品开源保存在IPFS上，或者加密保存在IPFS上。针对加密的作品，只有持有您发行的NFT的读者才能访问。 在加密发布填写信息页面，填入需要填写的信息后点击 **提交信息** 完成作品信息提交。&#x20;
 
 ![](<../.gitbook/assets/image (4).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
-现在你已经完成你的作品信息提交了！
+![](<../.gitbook/assets/image (1).png>)
+
+完成信息填写后点击 **提交信息**
 
 &#x20;选择一张图作为自己的NFT封面，封面文件支持JPEG/JPG/PNG格式。选择你的作品文件，点击上传文件或拖拽文件到选择框内完成上传。点击**发布作品** 完成你的作品发布。开源发布的方法与加密发布相同。
 
 完成上述步骤后，恭喜你已经创造出了第一个属于自己的NFT作品！点击 **查看详情** 查看作品详情信息。
 
-#### 1. [进入SparkLink官网](https://sparklink.io/#/)
+####
 
-![进入SparkLink官网](https://images.tango.us/public/screenshot\_3f872499-ef84-4312-9b9a-1fdc437a7156?crop=focalpoint\&fit=crop\&w=undefined\&ar=2561%3A1359)
+####
 
-#### 2. 点击去发布
 
-![点击去发布](https://images.tango.us/public/screenshot\_8f538e41-6926-4726-9ddf-1400d7b62395?crop=focalpoint\&fit=crop\&fp-x=0.4338149160484186\&fp-y=0.8351729212656365\&fp-z=2.500244069120375\&w=undefined\&ar=2561%3A1359)
 
-#### 3. 点击开源发布
+####
 
-![点击开源发布](https://images.tango.us/public/screenshot\_edde05b8-3d06-4476-8b3a-804673d70b1b?crop=focalpoint\&fit=crop\&fp-x=0.5686\&fp-y=0.6144\&fp-z=3\&w=undefined\&ar=2561%3A1359)
 
-#### 4. 输入作品名字
 
-![输入作品名字](https://images.tango.us/public/screenshot\_18edc8ae-aebf-4264-9639-2134cf243da3?crop=focalpoint\&fit=crop\&fp-x=0.487\&fp-y=0.3103\&fp-z=3.9367768282538003\&w=undefined\&ar=2561%3A1359)
 
-#### 5. 输入收益比例
 
-![输入收益比例](https://images.tango.us/public/screenshot\_cc44776e-1af5-42f2-bd8b-34efe62beab0?crop=focalpoint\&fit=crop\&fp-x=0.5049\&fp-y=0.3951\&fp-z=3.882672939792693\&w=undefined\&ar=2561%3A1359)
+
+
+####
+
+
 
 #### 6. 输入通行代币符号或合约地址
 
