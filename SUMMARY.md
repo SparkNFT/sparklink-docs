@@ -1,7 +1,7 @@
 # Table of contents
 
 * [SparkLink 介绍](README.md)
-* [产品](chan-pin.md)
+* [产品愿景](chan-pin-yuan-jing.md)
 
 ## 入门指南 <a href="tutorial" id="tutorial"></a>
 
