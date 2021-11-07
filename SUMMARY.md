@@ -9,6 +9,7 @@
 * [获取代币](tutorial/huo-qu-dai-bi.md)
 * [连接钱包](tutorial/lian-jie-qian-bao.md)
 * [发布作品](tutorial/fa-bu-zuo-pin.md)
+* [分享作品](tutorial/fen-xiang-zuo-pin.md)
 * [购买作品](tutorial/gou-mai-zuo-pin.md)
 
 ***
