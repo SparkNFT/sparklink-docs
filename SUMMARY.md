@@ -10,6 +10,7 @@
 * [连接钱包](tutorial/lian-jie-qian-bao.md)
 * [发布作品](tutorial/fa-bu-zuo-pin.md)
 * [分享作品](tutorial/fen-xiang-zuo-pin.md)
+* [download](tutorial/download.md)
 * [购买作品](tutorial/gou-mai-zuo-pin.md)
 
 ***
