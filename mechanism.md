@@ -14,4 +14,4 @@ description: 关于SparkLink的机制介绍
 
 注：当作品可供分享的次数达到最大值后，可获得一个该作品一级节点的赠送节点并继续分享下去。
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
