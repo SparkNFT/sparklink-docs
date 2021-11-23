@@ -10,11 +10,13 @@ description: 发布作品流程
 
 访问[SparkLink平台](http://sparklink.io)，点击右上角“Connect Wallet”链接小狐狸钱包。
 
-本指南将介绍如何使用SparkLink平台功能进行NFT作品的创作和发布。
+
 
 ![](../.gitbook/assets/Picture1.png)
 
-**开始创作和发布** 在SparkLink首页找到 **去发布** 按钮，点击后进入发布信息界面。
+**开始创作和发布**&#x20;
+
+在SparkLink首页找到 **去发布** 按钮，点击后进入发布信息界面。
 
 ![](../.gitbook/assets/Picture2.gif)
 
