@@ -1,7 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [机制介绍](ji-zhi-jie-shao.md)
+* [Mechanism](mechanism.md)
 * [产品愿景](chan-pin-yuan-jing.md)
 
 ## 入门指南 <a href="tutorial" id="tutorial"></a>

@@ -2,9 +2,7 @@
 description: 关于SparkLink的机制介绍
 ---
 
-# 机制介绍
-
-
+# Mechanism
 
 用户可以使用SparkLink创建自己的NFT作品，并为自己的销售和传播设置费用，费用与盈利可以用任何加密货币支付，而在NFT被生成后任何的出售和传播行为都将会给持有人与创作者用户产生收益。
 
@@ -12,6 +10,4 @@ description: 关于SparkLink的机制介绍
 
 用户购买的一级节点NFT也拥有与根节点NFT相近的性质，其他用户可以从一级节点NFT铸造二级节点NFT，在此过程中，根节点NFT拥有者会抽取一级节点NFT所获得的利润的一部分，而一级节点也会从二级节点所获得的利润中抽取相同比例。
 
-
-
-![](<.gitbook/assets/biref (1).png>)
+![](<.gitbook/assets/image (1).png>)
