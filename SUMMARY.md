@@ -1,6 +1,7 @@
 # Table of contents
 
-* [SparkLink 介绍](README.md)
+* [前言](README.md)
+* [机制介绍](ji-zhi-jie-shao.md)
 * [产品愿景](chan-pin-yuan-jing.md)
 
 ## 入门指南 <a href="tutorial" id="tutorial"></a>
