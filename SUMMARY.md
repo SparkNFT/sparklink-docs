@@ -19,21 +19,3 @@
 * [联系我们](lian-xi-wo-men.md)
 * [白皮书](whitePaper.md)
   * [产品](product/chan-pin.md)
-
-## Group 1
-
-* [English](group-1/english.md)
-* [Introduction](group-1/introduction.md)
-* [Mechanism](group-1/mechanism.md)
-* [Product vision](group-1/product-vision.md)
-
-***
-
-* [How to start](how-to-start.md)
-* [Create  crypto wallet](create-crypto-wallet.md)
-* [Get tokens](get-tokens.md)
-* [Connect your crypto wallet](connect-your-crypto-wallet.md)
-* [Publish works](publish-works.md)
-* [Share works](share-works.md)
-* [Download](download.md)
-* [Purchase NFT content](purchase-nft-content.md)
