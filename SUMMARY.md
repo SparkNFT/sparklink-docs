@@ -1,7 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [Mechanism](mechanism.md)
+* [机制](ji-zhi.md)
 * [产品愿景](chan-pin-yuan-jing.md)
 
 ## 入门指南 <a href="tutorial" id="tutorial"></a>
@@ -11,7 +11,7 @@
 * [连接钱包](tutorial/lian-jie-qian-bao.md)
 * [发布作品](tutorial/fa-bu-zuo-pin.md)
 * [分享作品](tutorial/fen-xiang-zuo-pin.md)
-* [download](tutorial/download.md)
+* [下载作品](tutorial/xia-zai-zuo-pin.md)
 * [购买作品](tutorial/gou-mai-zuo-pin.md)
 
 ***
