@@ -65,7 +65,7 @@ description: 发布作品流程
 
 ![](../.gitbook/assets/Picture5.gif)
 
-![](../.gitbook/assets/Picture6.png)
+![](../.gitbook/assets/发布作品图.jpg.png)
 
 填写完信息并完成作品封面的上传和文件上传后，点击提交信息即可完成你的数字藏品发布流程。
 
