@@ -4,7 +4,7 @@
 * [机制](ji-zhi.md)
 * [产品愿景](chan-pin-yuan-jing.md)
 
-## 入门指南 <a href="tutorial" id="tutorial"></a>
+## 入门指南 <a href="#tutorial" id="tutorial"></a>
 
 * [创建钱包](tutorial/chuang-jian-qian-bao.md)
 * [获取代币](tutorial/huo-qu-dai-bi.md)
@@ -16,6 +16,4 @@
 
 ***
 
-* [联系我们](lian-xi-wo-men.md)
-* [白皮书](whitePaper.md)
-  * [产品](product/chan-pin.md)
+* [白皮书](lian-xi-wo-men.md)
