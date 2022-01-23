@@ -16,4 +16,4 @@
 
 ***
 
-* [白皮书](lian-xi-wo-men.md)
+* [白皮书](whitepaper.md)
