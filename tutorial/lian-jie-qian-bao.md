@@ -2,7 +2,7 @@
 
 为了将你的钱包连接到 SparkLink，在SparkLink.io主页选择右上角的 **Connect Wallet** 图标，选择你目前使用的钱包。
 
-![](<../.gitbook/assets/image (9).png>)
+<img src="../.gitbook/assets/image (9).png" alt="" data-size="original">
 
 接着系统会提示连接请求，请根据提示进行操作。当你看到 “正在连接...”SparkLink 到你的钱包时，就快完成了。
 
