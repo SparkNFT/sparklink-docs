@@ -13,7 +13,8 @@
 * [分享作品](tutorial/fen-xiang-zuo-pin.md)
 * [下载作品](tutorial/xia-zai-zuo-pin.md)
 * [购买作品](tutorial/gou-mai-zuo-pin.md)
-* [名词解释](tutorial/ming-ci-jie-shi.md)
+* [名词解释](tutorial/ming-ci-jie-shi/README.md)
+  * [发布页面](tutorial/ming-ci-jie-shi/fa-bu-ye-mian.md)
 
 ***
 

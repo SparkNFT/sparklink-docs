@@ -1,6 +1,4 @@
-# 名词解释
-
-
+# 发布页面
 
 * **作品名称**：创作作品名字，可被显示在海报上
 * **抽成百分比**：当您的作品内容被其他人分销和获利时，您希望从他人利润份额中获得多少百分比的利润。
@@ -22,23 +20,3 @@
 * 当选择进行加密发布时，仅有铸造（购买）数字藏品的用户，才能够查看作品中的内容
 
 **作品描述**：作品展示页面的描述字段
-
-
-
-**抽成逻辑**：
-
-Example:\
-Creator Geoff to publish and sell&#x20;
-
-T=Total revenue&#x20;
-
-(P)Set the price in $100&#x20;
-
-(F)Set fixed royalty = $10&#x20;
-
-(R)Set percentage of earnings in 10%&#x20;
-
-(N)Set Maximum number of shares in 2（if you set in 2 ）
-
-![](<../.gitbook/assets/image (11).png>)
-
