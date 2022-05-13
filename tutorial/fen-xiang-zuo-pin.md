@@ -14,14 +14,10 @@ description: 如何分享作品
 
 链接分享: 点击链接分享后，生成并复制分享链接至粘贴板，点击链接进入便可查看您的作品信息
 
-![](../.gitbook/assets/Picture8.gif)
-
 点击链接进入后，可看到该作品的全部信息。
-
-![](../.gitbook/assets/Picture9.png)
 
 海报分享: 点击海报分享后，生成分享海报，可以任意方式将海报分享给他人，如下图
 
-![](../.gitbook/assets/Picture10.gif)
+![](<../.gitbook/assets/GIF 2022-5-13 15-44-35.gif>)
 
 扫描海报上二维码进入后，可看到该作品的全部信息。
