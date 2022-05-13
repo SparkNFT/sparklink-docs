@@ -16,5 +16,7 @@ NFT也是一种代币（Token），但和同质化数字货币不同是，每一
 
 ### 关于SparkLink
 
-SparkLink是一个独特的去中心化NFT内容创作与分销平台，基于[web3.0](https://nl.wikipedia.org/wiki/Web\_3.0)概念，每一个人都可以在SparkLink以NFT的形式发布任何内容作品，并为自己的销售和传播设置费用，在NFT被生成后任何的出售和传播行为都将会给持有人或节点用户产生收益。SparkLink为用户提供了一种新的去中心化NFT发行与分销方式。
+SparkLink是一个独特的去中心化NFT内容创作与分销协议，基于[web3.0](https://nl.wikipedia.org/wiki/Web\_3.0)概念，每一个人都可以在SparkLink以NFT的形式发布任何内容作品，并为自己的销售和传播设置费用，在NFT被生成后任何的出售和传播行为都将会给持有人或节点用户产生收益。SparkLink为用户提供了一种新的去中心化NFT发行与分销方式，我们开发了一种新的扩展协议ERC-721S，基于当前的NFT协议ERC-721，SparkLink protocol将NFT的稀缺性和不可替代的价值添加到更大内容层的共享激励属性中，允许所有格式的内容无限期地拆分，并通过NFT获得收益。
+
+
 
