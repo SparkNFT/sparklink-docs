@@ -10,7 +10,7 @@ description: 如何分享作品
 \
 
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 链接分享: 点击链接分享后，生成并复制分享链接至粘贴板，点击链接进入便可查看您的作品信息
 
