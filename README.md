@@ -1,5 +1,5 @@
 ---
-description: SparkLink是一个去中心化的内容创作与分销平台
+description: SparkLink是一个独特的去中心化NFT内容创作与分销协议
 ---
 
 # 前言
