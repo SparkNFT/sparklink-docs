@@ -21,7 +21,10 @@ T=Total revenue&#x20;
 
 (R)Set percentage of earnings in 10%&#x20;
 
-(N)Set Maximum number of shares in 2（if you set in 2 ）
+(N)Set Maximum number of shares in 2（if you set in 2 ）\
+
+
+![创作者总收入](<../../.gitbook/assets/image (13).png>)
 
 ![](<../../.gitbook/assets/image (11).png>)
 
