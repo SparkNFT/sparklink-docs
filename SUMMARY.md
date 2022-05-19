@@ -11,7 +11,7 @@
 * [连接钱包](tutorial/lian-jie-qian-bao.md)
 * [发布作品](tutorial/fa-bu-zuo-pin.md)
 * [分享作品](tutorial/fen-xiang-zuo-pin.md)
-* [下载作品](tutorial/xia-zai-zuo-pin.md)
+* [铸造＆下载作品](tutorial/zhu-zao-xia-zai-zuo-pin.md)
 * [购买作品](tutorial/gou-mai-zuo-pin.md)
 * [名词解释](tutorial/ming-ci-jie-shi.md)
   * [发布页面](tutorial/ming-ci-jie-shi/fa-bu-ye-mian.md)
